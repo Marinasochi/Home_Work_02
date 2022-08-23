@@ -18,7 +18,7 @@ while (a < 10)
 
 string text = new String('*', 40);
 
-Console.WriteLine("    Задача 1");
+Console.WriteLine("    Задача 2");
 Console.WriteLine(text);
 Console.ForegroundColor = ConsoleColor.DarkYellow;
 Console.WriteLine("  Напишите программу, которая выводит \r\nслучайное трёхзначное число \r\nи удаляет вторую цифру этого числа.");
