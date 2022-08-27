@@ -39,7 +39,7 @@ Console.ResetColor();
 
 int number = Prompt("Введите число  ");
 int count = Digits(number);
-Console.WriteLine($"Данное число {count}х-значное");
+Console.WriteLine($"Данное число {count}-значное");
 if (count < 3) Console.WriteLine("Ответ: третей цифры у данного числа нет");
 else
 {
